@@ -1,16 +1,6 @@
 # expense_app
 
-A new Flutter project.
+This app is used to record daily expenses in memory.
+It shows visually bar diagram for total transaction of each day.
+Works both in portrait and landscape mode with additional switch being rendered for landscape mode to switch between transaction records and bar diagram.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
